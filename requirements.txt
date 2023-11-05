@@ -1,1 +1,1 @@
-pyvesync @ pyvesync@git+https://github.com/xuthomas/pyvesync.git@humidLV6S
+pyvesync@git+https://github.com/xuthomas/pyvesync.git@humidLV6S
